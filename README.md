@@ -45,7 +45,7 @@
     
     <div class="content">
         <h2>¡Funciona perfecto! ✅</h2>
-        <p>Este sitio está alojado <span class="highlight">GRATIS</span> en <strong>GitHub Pages</strong>.</p>
+        <p>Este sitio está alojado <span class="highlight">GRATIS </span> en <strong>GitHub Pages</strong>.</p>
         
         <h3>Mi URL permanente:</h3>
         <p><code>https://tuusuario.github.io</code></p>
