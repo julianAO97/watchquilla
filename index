@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>¡Mi Sitio en GitHub!</title>
+    <style>
+        body { font-family: Arial; text-align: center; padding: 50px; }
+        h1 { color: #2ea44f; }
+    </style>
+</head>
+<body>
+    <h1>¡Funciona! 🎉</h1>
+    <p>Este es mi sitio alojado GRATIS en <strong>GitHub Pages</strong>.</p>
+    <p>Mi URL es: <code>https://tuusuario.github.io</code></p>
+</body>
+</html>
